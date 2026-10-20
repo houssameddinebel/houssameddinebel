@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DA55F&height=200&section=header&text=Houssam%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Dev%20%C2%B7%20Python%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DA55F&height=200&section=header&text=Houssam%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Dev%20%C2%B7%20React%20Native%20%C2%B7%20Python&descAlignY=58&descSize=18" width="100%" />
 <br>
 <img src="https://komarev.com/ghpvc/?username=houssameddinebel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ## 👨‍💻 houssameddinebel
 
-**`Full Stack Dev · Python Builder · Web Craftsman`**
+**`Full Stack Dev · React Native · Python Builder`**
 
 <p>
-  Building clean web experiences with <b>React</b>, <b>Laravel</b>, and <b>Python</b>. <br>
+  Building clean web & mobile experiences with <b>React</b>, <b>React Native</b>, <b>Laravel</b>, and <b>Python</b>. <br>
   Passionate about <b>Full Stack Development</b>, <b>backends that just work</b>, and <b>interfaces that feel good</b>. <br>
   I turn ideas into working apps: dashboards, finance trackers, quizzes, CRUD APIs. <br>
   From a Python script on the command line to a full front-end, <br>
@@ -26,6 +26,7 @@
 | | |
 |:--|:--|
 | 🌐 **Full Stack Dev** | React front-ends, Laravel/PHP back-ends, clean UIs that don't hurt |
+| 📱 **Mobile Apps** | Cross-platform apps with React Native, sharing logic with the web |
 | 🐍 **Python Tooling** | CLI apps, data trackers, and small utilities that solve real problems |
 | 📊 **Data & Charts** | Turning plain numbers into reports and visuals people understand |
 | 🔌 **APIs & CRUD** | REST-style endpoints, JSON data, and solid CRUD flows |
@@ -52,6 +53,7 @@
 ### 🚀 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -64,11 +66,17 @@
 
 ### 🔧 Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔁 DevOps & Version Control
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
